@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\Project5\Source.cpp(60,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\Project5\Source.cpp(190,76): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\Project5\Source.cpp(231,33): warning C4805: '==': unsafe mix of type '_Ty' and type 'bool' in operation
+          with
+          [
+              _Ty=int
+          ]
+D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\Project5\Source.cpp(402,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project5.vcxproj -> D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\x64\Debug\Project5.exe

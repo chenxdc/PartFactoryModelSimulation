@@ -1,0 +1,24 @@
+﻿  Source.cpp
+D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\Project5\Source.cpp(61,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\Project5\Source.cpp(183,80): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\Project5\Source.cpp(256,80): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\Project5\Source.cpp(315,33): warning C4805: '==': unsafe mix of type '_Ty' and type 'bool' in operation
+          with
+          [
+              _Ty=int
+          ]
+D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\Project5\Source.cpp(485,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 710 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project5.vcxproj -> D:\Syracuse University\CSE 691 Parll& Multi Threading\HW\04\Project5\x64\Release\Project5.exe

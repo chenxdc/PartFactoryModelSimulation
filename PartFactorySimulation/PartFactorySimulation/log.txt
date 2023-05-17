@@ -1,0 +1,4392 @@
+Current Time: 56267us
+Iteration 1
+Product Worker ID: 1
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (0,1,1,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (0,1,1,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 63690us
+Iteration 1
+Product Worker ID: 2
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (2,1,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (2,1,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 67153us
+Iteration 1
+Product Worker ID: 3
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (0,2,0,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (0,2,0,1,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 72997us
+Iteration 1
+Product Worker ID: 4
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (2,0,0,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (2,0,0,1,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 75990us
+Iteration 1
+Product Worker ID: 5
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (2,0,1,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (2,0,1,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 79272us
+Iteration 1
+Product Worker ID: 6
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (3,0,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (3,0,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 83015us
+Iteration 1
+Product Worker ID: 7
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (1,0,1,0,3,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (1,0,1,0,3,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 85366us
+Iteration 1
+Product Worker ID: 8
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (1,2,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (1,2,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 88196us
+Iteration 1
+Product Worker ID: 9
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (0,0,2,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (0,0,2,1,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 91763us
+Iteration 1
+Product Worker ID: 10
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (0,1,0,3,1,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (0,1,0,3,1,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 100002us
+Iteration 1
+Product Worker ID: 11
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (0,0,1,2,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (0,0,1,2,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 104710us
+Iteration 1
+Product Worker ID: 12
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (1,2,2,0,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (1,2,2,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 107545us
+Iteration 1
+Product Worker ID: 14
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (0,0,2,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (0,0,2,1,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 111759us
+Iteration 1
+Product Worker ID: 15
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (0,3,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (0,3,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 115584us
+Iteration 1
+Product Worker ID: 13
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (0,3,1,0,1,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (0,3,1,0,1,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 118073us
+Iteration 1
+Product Worker ID: 16
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (1,0,1,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (1,0,1,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 0
+
+Current Time: 182818us
+Iteration 1
+Part Worker ID: 20
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Load Order: (0,1,1,1,3,)
+Updated Buffer State: (0,1,1,1,3,0,0,0,0,0,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 185755us
+Iteration 1
+Part Worker ID: 4
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (0,1,1,1,3,0,0,0,0,0,)
+Load Order: (2,0,1,1,2,)
+Updated Buffer State: (2,1,2,2,4,0,0,0,0,0,)
+Updated Load Order: (0,0,0,0,1,)
+
+Current Time: 187670us
+Iteration 1
+Part Worker ID: 17
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (2,1,2,2,4,0,0,0,0,0,)
+Load Order: (1,1,2,1,1,)
+Updated Buffer State: (3,2,4,3,4,0,0,0,0,0,)
+Updated Load Order: (0,0,0,0,1,)
+
+Current Time: 189542us
+Iteration 1
+Part Worker ID: 5
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (3,2,4,3,4,0,0,0,0,0,)
+Load Order: (2,1,2,1,0,)
+Updated Buffer State: (5,3,5,4,4,0,0,0,0,0,)
+Updated Load Order: (0,0,1,0,0,)
+
+Current Time: 191422us
+Iteration 1
+Part Worker ID: 3
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (5,3,5,4,4,0,0,0,0,0,)
+Load Order: (1,0,3,1,1,)
+Updated Buffer State: (6,3,5,5,4,0,0,0,0,0,)
+Updated Load Order: (0,0,3,0,1,)
+
+Current Time: 192643us
+Iteration 1
+Part Worker ID: 16
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (6,3,5,5,4,0,0,0,0,0,)
+Load Order: (0,0,1,2,3,)
+Updated Buffer State: (6,3,5,5,4,0,0,0,0,0,)
+Updated Load Order: (0,0,1,2,3,)
+
+Current Time: 194319us
+Iteration 1
+Part Worker ID: 19
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (6,3,5,5,4,0,0,0,0,0,)
+Load Order: (0,0,2,2,2,)
+Updated Buffer State: (6,3,5,5,4,0,0,0,0,0,)
+Updated Load Order: (0,0,2,2,2,)
+
+Current Time: 195727us
+Iteration 1
+Part Worker ID: 18
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (6,3,5,5,4,0,0,0,0,0,)
+Load Order: (1,2,0,2,1,)
+Updated Buffer State: (7,5,5,5,4,0,0,0,0,0,)
+Updated Load Order: (0,0,0,2,1,)
+
+Current Time: 196950us
+Iteration 1
+Part Worker ID: 13
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,5,5,5,4,0,0,0,0,0,)
+Load Order: (2,2,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,0,0,0,0,0,)
+Updated Load Order: (2,1,0,1,1,)
+
+Current Time: 198422us
+Iteration 1
+Part Worker ID: 15
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,0,0,0,0,0,)
+Load Order: (2,1,0,2,1,)
+Updated Buffer State: (7,6,5,5,4,2,1,0,2,1,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 199778us
+Iteration 1
+Part Worker ID: 2
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,2,1,0,2,1,)
+Load Order: (2,1,1,2,0,)
+Updated Buffer State: (7,6,5,5,4,4,2,1,4,1,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 201336us
+Iteration 1
+Part Worker ID: 14
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,4,2,1,4,1,)
+Load Order: (1,0,3,0,2,)
+Updated Buffer State: (7,6,5,5,4,5,2,4,4,3,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 202675us
+Iteration 1
+Part Worker ID: 11
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,5,2,4,4,3,)
+Load Order: (1,1,0,2,2,)
+Updated Buffer State: (7,6,5,5,4,6,3,4,5,4,)
+Updated Load Order: (0,0,0,1,1,)
+
+Current Time: 204270us
+Iteration 1
+Part Worker ID: 12
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,6,3,4,5,4,)
+Load Order: (0,0,2,1,3,)
+Updated Buffer State: (7,6,5,5,4,6,3,5,5,4,)
+Updated Load Order: (0,0,1,1,3,)
+
+Current Time: 205766us
+Iteration 1
+Part Worker ID: 10
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,6,3,5,5,4,)
+Load Order: (0,3,1,2,0,)
+Updated Buffer State: (7,6,5,5,4,6,6,5,5,4,)
+Updated Load Order: (0,0,1,2,0,)
+
+Current Time: 207546us
+Iteration 1
+Part Worker ID: 7
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,6,6,5,5,4,)
+Load Order: (1,3,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,3,0,1,1,)
+
+Current Time: 208886us
+Iteration 1
+Part Worker ID: 9
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,0,2,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,0,2,2,1,)
+
+Current Time: 210471us
+Iteration 1
+Part Worker ID: 6
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,1,1,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,1,1,1,1,)
+
+Current Time: 211841us
+Iteration 1
+Part Worker ID: 8
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,2,0,0,3,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,2,0,0,3,)
+
+Current Time: 213107us
+Iteration 1
+Part Worker ID: 1
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,2,2,0,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,2,2,0,1,)
+
+Current Time: 338870us
+Iteration 2
+Part Worker ID: 20
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,1,1,1,3,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,1,1,1,3,)
+
+Current Time: 340575us
+Iteration 2
+Part Worker ID: 15
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,1,0,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,1,0,2,1,)
+
+Current Time: 343363us
+Iteration 2
+Part Worker ID: 14
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,0,3,0,2,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,0,3,0,2,)
+
+Current Time: 347771us
+Iteration 2
+Part Worker ID: 2
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,1,1,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,1,1,2,0,)
+
+Current Time: 496610us
+Iteration 1
+Part Worker ID: 3
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 30409us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,3,0,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,3,0,1,)
+
+Current Time: 654973us
+Iteration 1
+Part Worker ID: 5
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 46362us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,1,0,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,0,0,)
+
+Current Time: 809933us
+Iteration 1
+Part Worker ID: 17
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 62060us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,0,0,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,0,0,1,)
+
+Current Time: 970600us
+Iteration 1
+Part Worker ID: 4
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 78307us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,0,0,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,0,0,1,)
+
+Current Time: 1129187us
+Iteration 1
+Product Worker ID: 13
+Status: Wakeup-Notified
+Accumulated Wait Time: 101135us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Pickup Order: (0,3,1,0,1,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,3,4,5,3,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,3,1,0,1,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 1
+
+Current Time: 1294866us
+Iteration 2
+Product Worker ID: 13
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,3,4,5,3,7,6,5,5,4,)
+Pickup Order: (0,3,1,0,1,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,3,5,2,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,3,1,0,1,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 1447321us
+Iteration 3
+Product Worker ID: 13
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,0,3,5,2,7,6,5,5,4,)
+Pickup Order: (0,3,1,0,1,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,2,5,1,7,6,5,5,4,)
+Updated Pickup Order: (0,3,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,1,0,1,)
+Total Completed Products: 2
+
+Current Time: 1450012us
+Iteration 1
+Product Worker ID: 12
+Status: Wakeup-Notified
+Accumulated Wait Time: 134271us
+Buffer State: (7,0,2,5,1,7,6,5,5,4,)
+Pickup Order: (1,2,2,0,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,0,0,5,1,7,6,5,5,4,)
+Updated Pickup Order: (0,2,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,0,2,0,0,)
+Total Completed Products: 2
+
+Current Time: 1450012us
+Iteration 1
+Product Worker ID: 12
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 134271us
+Buffer State: (6,0,0,5,1,7,6,5,5,4,)
+Pickup Order: (0,2,0,0,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (1,0,2,0,0,)
+Updated Buffer State: (6,0,0,5,1,7,6,5,5,4,)
+Updated Pickup Order: (0,2,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,0,2,0,0,)
+Total Completed Products: 2
+
+Current Time: 1595538us
+Iteration 2
+Product Worker ID: 12
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (6,0,0,5,1,7,6,5,5,4,)
+Pickup Order: (0,2,0,0,0,)
+Local State: (1,0,2,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,0,0,5,1,7,6,5,5,4,)
+Updated Pickup Order: (0,2,0,0,0,)
+Updated Local State: (1,0,2,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 1597909us
+Iteration 1
+Product Worker ID: 10
+Status: Wakeup-Notified
+Accumulated Wait Time: 149819us
+Buffer State: (6,0,0,5,1,7,6,5,5,4,)
+Pickup Order: (0,1,0,3,1,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,0,0,2,0,7,6,5,5,4,)
+Updated Pickup Order: (0,1,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,3,1,)
+Total Completed Products: 2
+
+Current Time: 1597909us
+Iteration 1
+Product Worker ID: 10
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 149819us
+Buffer State: (6,0,0,2,0,7,6,5,5,4,)
+Pickup Order: (0,1,0,0,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,3,1,)
+Updated Buffer State: (6,0,0,2,0,7,6,5,5,4,)
+Updated Pickup Order: (0,1,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,3,1,)
+Total Completed Products: 2
+
+Current Time: 1756866us
+Iteration 1
+Product Worker ID: 9
+Status: Wakeup-Notified
+Accumulated Wait Time: 166534us
+Buffer State: (6,0,0,2,0,7,6,5,5,4,)
+Pickup Order: (0,0,2,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,0,0,1,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,2,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,1,0,)
+Total Completed Products: 2
+
+Current Time: 1756866us
+Iteration 1
+Product Worker ID: 9
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 166534us
+Buffer State: (6,0,0,1,0,7,6,5,5,4,)
+Pickup Order: (0,0,2,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,1,0,)
+Updated Buffer State: (6,0,0,1,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,2,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,1,0,)
+Total Completed Products: 2
+
+Current Time: 1903718us
+Iteration 1
+Product Worker ID: 7
+Status: Wakeup-Notified
+Accumulated Wait Time: 181853us
+Buffer State: (6,0,0,1,0,7,6,5,5,4,)
+Pickup Order: (1,0,1,0,3,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,0,0,1,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,1,0,3,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 1903718us
+Iteration 1
+Product Worker ID: 7
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 181853us
+Buffer State: (5,0,0,1,0,7,6,5,5,4,)
+Pickup Order: (0,0,1,0,3,)
+Local State: (0,0,0,0,0,)
+Cart State: (1,0,0,0,0,)
+Updated Buffer State: (5,0,0,1,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,1,0,3,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 2061401us
+Iteration 2
+Product Worker ID: 7
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (5,0,0,1,0,7,6,5,5,4,)
+Pickup Order: (0,0,1,0,3,)
+Local State: (1,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,0,0,1,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,1,0,3,)
+Updated Local State: (1,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 2062913us
+Iteration 1
+Product Worker ID: 5
+Status: Wakeup-Notified
+Accumulated Wait Time: 198436us
+Buffer State: (5,0,0,1,0,7,6,5,5,4,)
+Pickup Order: (2,0,1,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (3,0,0,1,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,1,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 2062913us
+Iteration 1
+Product Worker ID: 5
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 198436us
+Buffer State: (3,0,0,1,0,7,6,5,5,4,)
+Pickup Order: (0,0,1,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (2,0,0,0,0,)
+Updated Buffer State: (3,0,0,1,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,1,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 2225221us
+Iteration 1
+Product Worker ID: 4
+Status: Wakeup-Notified
+Accumulated Wait Time: 214947us
+Buffer State: (3,0,0,1,0,7,6,5,5,4,)
+Pickup Order: (2,0,0,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (1,0,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,0,1,0,)
+Total Completed Products: 2
+
+Current Time: 2225221us
+Iteration 1
+Product Worker ID: 4
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 214948us
+Buffer State: (1,0,0,0,0,7,6,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (2,0,0,1,0,)
+Updated Buffer State: (1,0,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,0,1,0,)
+Total Completed Products: 2
+
+Current Time: 2380835us
+Iteration 2
+Product Worker ID: 4
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (1,0,0,0,0,7,6,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (2,0,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (1,0,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (2,0,0,1,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 2383574us
+Iteration 1
+Product Worker ID: 2
+Status: Wakeup-Notified
+Accumulated Wait Time: 231666us
+Buffer State: (1,0,0,0,0,7,6,5,5,4,)
+Pickup Order: (2,1,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (1,1,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 2383574us
+Iteration 1
+Product Worker ID: 2
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 231666us
+Buffer State: (0,0,0,0,0,7,6,5,5,4,)
+Pickup Order: (1,1,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (1,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (1,1,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 2542311us
+Iteration 1
+Product Worker ID: 1
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 247883us
+Buffer State: (0,0,0,0,0,7,6,5,5,4,)
+Pickup Order: (0,1,1,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,1,1,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 2544281us
+Iteration 2
+Product Worker ID: 1
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,0,0,0,7,6,5,5,4,)
+Pickup Order: (0,1,1,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,1,1,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 2
+
+Current Time: 2545806us
+Iteration 2
+Part Worker ID: 2
+Status: Wakeup-Notified
+Accumulated Wait Time: 219651us
+Buffer State: (0,0,0,0,0,7,6,5,5,4,)
+Load Order: (2,1,1,2,0,)
+Updated Buffer State: (2,1,1,2,0,7,6,5,5,4,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 2548325us
+Iteration 2
+Part Worker ID: 14
+Status: Wakeup-Notified
+Accumulated Wait Time: 220120us
+Buffer State: (2,1,1,2,0,7,6,5,5,4,)
+Load Order: (1,0,3,0,2,)
+Updated Buffer State: (3,1,4,2,2,7,6,5,5,4,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 2551000us
+Iteration 2
+Part Worker ID: 15
+Status: Wakeup-Notified
+Accumulated Wait Time: 220784us
+Buffer State: (3,1,4,2,2,7,6,5,5,4,)
+Load Order: (2,1,0,2,1,)
+Updated Buffer State: (5,2,4,4,3,7,6,5,5,4,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 2552175us
+Iteration 1
+Part Worker ID: 1
+Status: Wakeup-Notified
+Accumulated Wait Time: 233770us
+Buffer State: (5,2,4,4,3,7,6,5,5,4,)
+Load Order: (1,2,2,0,1,)
+Updated Buffer State: (6,4,5,4,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,0,0,)
+
+Current Time: 2552175us
+Iteration 1
+Part Worker ID: 1
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 233770us
+Buffer State: (6,4,5,4,4,7,6,5,5,4,)
+Load Order: (0,0,1,0,0,)
+Updated Buffer State: (6,4,5,4,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,0,0,)
+
+Current Time: 2692295us
+Iteration 1
+Part Worker ID: 8
+Status: Wakeup-Notified
+Accumulated Wait Time: 247934us
+Buffer State: (6,4,5,4,4,7,6,5,5,4,)
+Load Order: (1,2,0,0,3,)
+Updated Buffer State: (7,6,5,4,4,7,6,5,5,4,)
+Updated Load Order: (0,0,0,0,3,)
+
+Current Time: 2692295us
+Iteration 1
+Part Worker ID: 8
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 247934us
+Buffer State: (7,6,5,4,4,7,6,5,5,4,)
+Load Order: (0,0,0,0,3,)
+Updated Buffer State: (7,6,5,4,4,7,6,5,5,4,)
+Updated Load Order: (0,0,0,0,3,)
+
+Current Time: 2853261us
+Iteration 1
+Part Worker ID: 19
+Status: Wakeup-Notified
+Accumulated Wait Time: 265763us
+Buffer State: (7,6,5,5,4,7,6,5,4,4,)
+Load Order: (0,0,2,2,2,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,2,1,2,)
+
+Current Time: 2853261us
+Iteration 1
+Part Worker ID: 19
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 265764us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,2,1,2,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,2,1,2,)
+
+Current Time: 3007767us
+Iteration 1
+Part Worker ID: 13
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 280957us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,1,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,1,0,1,1,)
+
+Current Time: 3164259us
+Iteration 1
+Part Worker ID: 18
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 296742us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,0,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,0,2,1,)
+
+Current Time: 3317412us
+Iteration 1
+Part Worker ID: 12
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 311177us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,1,1,3,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,1,3,)
+
+Current Time: 3472858us
+Iteration 1
+Part Worker ID: 11
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 326880us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,0,1,1,)
+
+Current Time: 3621221us
+Iteration 1
+Part Worker ID: 10
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 341386us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,1,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,2,0,)
+
+Current Time: 3775668us
+Iteration 2
+Part Worker ID: 20
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 343543us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,1,1,1,3,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,1,1,1,3,)
+
+Current Time: 3936773us
+Iteration 3
+Part Worker ID: 20
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,1,1,1,3,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,1,1,1,3,)
+
+Current Time: 3938505us
+Iteration 1
+Part Worker ID: 6
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 372677us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,1,1,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,1,1,1,1,)
+
+Current Time: 4085981us
+Iteration 1
+Part Worker ID: 9
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 387573us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,0,2,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,0,2,2,1,)
+
+Current Time: 4239933us
+Iteration 2
+Part Worker ID: 9
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,0,2,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,0,2,2,1,)
+
+Current Time: 4241511us
+Iteration 2
+Part Worker ID: 3
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,0,3,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,0,3,1,1,)
+
+Current Time: 4243520us
+Iteration 2
+Part Worker ID: 5
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,1,2,1,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,1,2,1,0,)
+
+Current Time: 4245497us
+Iteration 2
+Part Worker ID: 17
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,1,2,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,1,2,1,1,)
+
+Current Time: 4246678us
+Iteration 2
+Part Worker ID: 4
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,0,1,1,2,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,0,1,1,2,)
+
+Current Time: 4248214us
+Iteration 1
+Product Worker ID: 15
+Status: Wakeup-Notified
+Accumulated Wait Time: 413287us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Pickup Order: (0,3,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,3,5,3,4,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,3,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 3
+
+Current Time: 4389190us
+Iteration 2
+Part Worker ID: 4
+Status: Wakeup-Notified
+Accumulated Wait Time: 14132us
+Buffer State: (7,3,5,3,4,7,6,5,5,4,)
+Load Order: (2,0,1,1,2,)
+Updated Buffer State: (7,3,5,4,4,7,6,5,5,4,)
+Updated Load Order: (2,0,1,0,2,)
+
+Current Time: 4392601us
+Iteration 1
+Product Worker ID: 11
+Status: Wakeup-Notified
+Accumulated Wait Time: 428885us
+Buffer State: (7,3,5,4,4,7,6,5,5,4,)
+Pickup Order: (0,0,1,2,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,3,4,2,2,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,1,2,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 4
+
+Current Time: 4545995us
+Iteration 2
+Product Worker ID: 11
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,3,4,2,2,7,6,5,5,4,)
+Pickup Order: (0,0,1,2,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,3,3,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,1,2,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 5
+
+Current Time: 4694742us
+Iteration 3
+Product Worker ID: 11
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,3,3,0,0,7,6,5,5,4,)
+Pickup Order: (0,0,1,2,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,3,2,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,2,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,1,0,0,)
+Total Completed Products: 5
+
+Current Time: 4697069us
+Iteration 1
+Product Worker ID: 8
+Status: Wakeup-Notified
+Accumulated Wait Time: 460912us
+Buffer State: (7,3,2,0,0,7,6,5,5,4,)
+Pickup Order: (1,2,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,1,2,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,2,0,0,0,)
+Total Completed Products: 5
+
+Current Time: 4697069us
+Iteration 1
+Product Worker ID: 8
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 460912us
+Buffer State: (6,1,2,0,0,7,6,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (1,2,0,0,0,)
+Updated Buffer State: (6,1,2,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,2,0,0,0,)
+Total Completed Products: 5
+
+Current Time: 1756584us
+Iteration 2
+Product Worker ID: 12
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 325525us
+Buffer State: (6,0,0,2,0,7,6,5,5,4,)
+Pickup Order: (0,2,0,0,0,)
+Local State: (1,0,2,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,0,0,2,0,7,6,5,5,4,)
+Updated Pickup Order: (0,2,0,0,0,)
+Updated Local State: (1,0,2,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 5
+
+Current Time: 4856010us
+Iteration 2
+Product Worker ID: 5
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (6,1,2,0,0,7,6,5,5,4,)
+Pickup Order: (0,0,1,0,2,)
+Local State: (2,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,1,1,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (2,0,0,0,0,)
+Updated Cart State: (0,0,1,0,0,)
+Total Completed Products: 5
+
+Current Time: 4858211us
+Iteration 2
+Product Worker ID: 7
+Status: Wakeup-Notified
+Accumulated Wait Time: 279543us
+Buffer State: (6,1,1,0,0,7,6,5,5,4,)
+Pickup Order: (0,0,1,0,3,)
+Local State: (1,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,1,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,3,)
+Updated Local State: (1,0,0,0,0,)
+Updated Cart State: (0,0,1,0,0,)
+Total Completed Products: 5
+
+Current Time: 4858211us
+Iteration 2
+Product Worker ID: 7
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 279543us
+Buffer State: (6,1,0,0,0,7,6,5,5,4,)
+Pickup Order: (0,0,0,0,3,)
+Local State: (1,0,0,0,0,)
+Cart State: (0,0,1,0,0,)
+Updated Buffer State: (6,1,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,3,)
+Updated Local State: (1,0,0,0,0,)
+Updated Cart State: (0,0,1,0,0,)
+Total Completed Products: 5
+
+Current Time: 5013317us
+Iteration 3
+Product Worker ID: 7
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (6,1,0,0,0,7,6,5,5,4,)
+Pickup Order: (0,0,0,0,3,)
+Local State: (1,0,1,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,1,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,3,)
+Updated Local State: (1,0,1,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 5
+
+Current Time: 5016921us
+Iteration 2
+Product Worker ID: 2
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (6,1,0,0,0,7,6,5,5,4,)
+Pickup Order: (1,1,0,0,2,)
+Local State: (1,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,0,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (1,0,0,0,0,)
+Updated Cart State: (1,1,0,0,0,)
+Total Completed Products: 5
+
+Current Time: 118073us
+Iteration 1
+Product Worker ID: 16
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 489844us
+Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Pickup Order: (1,0,1,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,0,0,0,0,0,)
+Updated Pickup Order: (1,0,1,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 5
+
+Current Time: 5020391us
+Iteration 3
+Part Worker ID: 2
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (5,0,0,0,0,7,6,5,5,4,)
+Load Order: (2,1,1,2,0,)
+Updated Buffer State: (7,1,1,2,0,7,6,5,5,4,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 5021905us
+Iteration 3
+Part Worker ID: 15
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,1,1,2,0,7,6,5,5,4,)
+Load Order: (2,1,0,2,1,)
+Updated Buffer State: (7,2,1,4,1,7,6,5,5,4,)
+Updated Load Order: (2,0,0,0,0,)
+
+Current Time: 2544281us
+Iteration 2
+Product Worker ID: 1
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 247753us
+Buffer State: (0,0,0,0,0,7,6,5,5,4,)
+Pickup Order: (0,1,1,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,0,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,1,1,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 5
+
+Current Time: 5025715us
+Iteration 2
+Product Worker ID: 5
+Status: Wakeup-Notified
+Accumulated Wait Time: 16764us
+Buffer State: (7,2,1,4,1,7,6,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (2,0,0,0,0,)
+Cart State: (0,0,1,0,0,)
+Updated Buffer State: (7,2,1,4,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,1,)
+Updated Local State: (2,0,0,0,0,)
+Updated Cart State: (0,0,1,0,1,)
+Total Completed Products: 5
+
+Current Time: 5028406us
+Iteration 2
+Part Worker ID: 8
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,2,1,4,0,7,6,5,5,4,)
+Load Order: (1,2,0,0,3,)
+Updated Buffer State: (7,4,1,4,3,7,6,5,5,4,)
+Updated Load Order: (1,0,0,0,0,)
+
+Current Time: 5030318us
+Iteration 2
+Part Worker ID: 19
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,4,1,4,3,7,6,5,5,4,)
+Load Order: (0,0,2,2,2,)
+Updated Buffer State: (7,4,3,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,0,1,1,)
+
+Current Time: 5032710us
+Iteration 2
+Part Worker ID: 13
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,4,3,5,4,7,6,5,5,4,)
+Load Order: (2,2,0,1,1,)
+Updated Buffer State: (7,6,3,5,4,7,6,5,5,4,)
+Updated Load Order: (2,0,0,1,1,)
+
+Current Time: 5033931us
+Iteration 2
+Part Worker ID: 18
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,3,5,4,7,6,5,5,4,)
+Load Order: (1,2,0,2,1,)
+Updated Buffer State: (7,6,3,5,4,7,6,5,5,4,)
+Updated Load Order: (1,2,0,2,1,)
+
+Current Time: 5035642us
+Iteration 2
+Part Worker ID: 12
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,3,5,4,7,6,5,5,4,)
+Load Order: (0,0,2,1,3,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,0,1,3,)
+
+Current Time: 5037286us
+Iteration 2
+Part Worker ID: 11
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,1,0,2,2,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,1,0,2,2,)
+
+Current Time: 5038370us
+Iteration 2
+Part Worker ID: 10
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,3,1,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,3,1,2,0,)
+
+Current Time: 5039576us
+Iteration 1
+Part Worker ID: 7
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 483080us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,3,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,3,0,1,1,)
+
+Current Time: 5170300us
+Iteration 2
+Part Worker ID: 6
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,1,1,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,1,1,1,1,)
+
+Current Time: 5173442us
+Iteration 1
+Part Worker ID: 16
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 497923us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,1,2,3,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,2,3,)
+
+Current Time: 5331113us
+Iteration 2
+Part Worker ID: 16
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,1,2,3,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,2,3,)
+
+Current Time: 5333168us
+Iteration 2
+Product Worker ID: 15
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Pickup Order: (0,3,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,3,5,3,4,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,3,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 6
+
+Current Time: 5485637us
+Iteration 3
+Product Worker ID: 15
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,3,5,3,4,7,6,5,5,4,)
+Pickup Order: (0,3,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,5,1,4,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,3,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 7
+
+Current Time: 5647565us
+Iteration 4
+Product Worker ID: 15
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,0,5,1,4,7,6,5,5,4,)
+Pickup Order: (0,3,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,5,0,4,7,6,5,5,4,)
+Updated Pickup Order: (0,3,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,1,0,)
+Total Completed Products: 7
+
+Current Time: 5649413us
+Iteration 2
+Part Worker ID: 3
+Status: Wakeup-Notified
+Accumulated Wait Time: 140610us
+Buffer State: (7,0,5,0,4,7,6,5,5,4,)
+Load Order: (1,0,3,1,1,)
+Updated Buffer State: (7,0,5,1,4,7,6,5,5,4,)
+Updated Load Order: (1,0,3,0,1,)
+
+Current Time: 5649413us
+Iteration 2
+Part Worker ID: 3
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 140611us
+Buffer State: (7,0,5,1,4,7,6,5,5,4,)
+Load Order: (1,0,3,0,1,)
+Updated Buffer State: (7,0,5,1,4,7,6,5,5,4,)
+Updated Load Order: (1,0,3,0,1,)
+
+Current Time: 5796821us
+Iteration 2
+Part Worker ID: 9
+Status: Wakeup-Notified
+Accumulated Wait Time: 155547us
+Buffer State: (7,0,5,1,4,7,6,5,5,4,)
+Load Order: (1,0,2,2,1,)
+Updated Buffer State: (7,0,5,3,4,7,6,5,5,4,)
+Updated Load Order: (1,0,2,0,1,)
+
+Current Time: 5796821us
+Iteration 2
+Part Worker ID: 9
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 155548us
+Buffer State: (7,0,5,3,4,7,6,5,5,4,)
+Load Order: (1,0,2,0,1,)
+Updated Buffer State: (7,0,5,3,4,7,6,5,5,4,)
+Updated Load Order: (1,0,2,0,1,)
+
+Current Time: 5951926us
+Iteration 3
+Part Worker ID: 20
+Status: Wakeup-Notified
+Accumulated Wait Time: 201359us
+Buffer State: (7,0,5,3,4,7,6,5,5,4,)
+Load Order: (0,1,1,1,3,)
+Updated Buffer State: (7,1,5,4,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,0,3,)
+
+Current Time: 5951926us
+Iteration 3
+Part Worker ID: 20
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 201359us
+Buffer State: (7,1,5,4,4,7,6,5,5,4,)
+Load Order: (0,0,1,0,3,)
+Updated Buffer State: (7,1,5,4,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,0,3,)
+
+Current Time: 6105132us
+Iteration 2
+Part Worker ID: 4
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 185480us
+Buffer State: (7,6,5,5,4,7,1,5,4,4,)
+Load Order: (2,0,1,0,2,)
+Updated Buffer State: (7,6,5,5,4,7,1,5,4,4,)
+Updated Load Order: (2,0,1,0,2,)
+
+Current Time: 6257769us
+Iteration 3
+Product Worker ID: 13
+Status: Wakeup-Notified
+Accumulated Wait Time: 480851us
+Buffer State: (7,6,5,5,4,7,1,5,4,4,)
+Pickup Order: (0,3,0,0,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,1,0,1,)
+Updated Buffer State: (7,3,5,5,4,7,1,5,4,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,3,1,0,1,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 8
+
+Current Time: 6412963us
+Iteration 4
+Product Worker ID: 13
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,3,5,5,4,7,1,5,4,4,)
+Pickup Order: (0,3,1,0,1,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,4,5,3,7,1,5,4,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,3,1,0,1,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 9
+
+Current Time: 6563415us
+Iteration 5
+Product Worker ID: 13
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,0,4,5,3,7,1,5,4,4,)
+Pickup Order: (0,3,1,0,1,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,3,5,2,7,1,5,4,4,)
+Updated Pickup Order: (0,3,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,1,0,1,)
+Total Completed Products: 9
+
+Current Time: 6565917us
+Iteration 2
+Product Worker ID: 9
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,0,3,5,2,7,1,5,4,4,)
+Pickup Order: (0,0,2,0,2,)
+Local State: (0,0,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,1,5,0,7,1,5,4,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,1,0,)
+Updated Cart State: (0,0,2,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 10
+
+Current Time: 6718192us
+Iteration 3
+Product Worker ID: 12
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,0,1,5,0,7,1,5,4,4,)
+Pickup Order: (0,2,0,0,0,)
+Local State: (1,0,2,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,1,5,0,7,1,5,4,4,)
+Updated Pickup Order: (0,2,0,0,0,)
+Updated Local State: (1,0,2,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 10
+
+Current Time: 4855866us
+Iteration 3
+Product Worker ID: 11
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 202341us
+Buffer State: (6,1,2,0,0,7,6,5,5,4,)
+Pickup Order: (0,0,0,2,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,1,0,0,)
+Updated Buffer State: (6,1,2,0,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,2,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,1,0,0,)
+Total Completed Products: 10
+
+Current Time: 6876389us
+Iteration 4
+Product Worker ID: 11
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,0,1,5,0,7,1,5,4,4,)
+Pickup Order: (0,0,0,2,2,)
+Local State: (0,0,1,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,1,3,0,7,1,5,4,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,1,0,0,)
+Updated Cart State: (0,0,0,2,0,)
+Total Completed Products: 10
+
+Current Time: 6878325us
+Iteration 1
+Product Worker ID: 3
+Status: Wakeup-Notified
+Accumulated Wait Time: 680559us
+Buffer State: (7,0,1,3,0,7,1,5,4,4,)
+Pickup Order: (0,2,0,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Updated Pickup Order: (0,2,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,1,0,)
+Total Completed Products: 10
+
+Current Time: 6878325us
+Iteration 1
+Product Worker ID: 3
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 680560us
+Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Pickup Order: (0,2,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,1,0,)
+Updated Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Updated Pickup Order: (0,2,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,1,0,)
+Total Completed Products: 10
+
+Current Time: 7035909us
+Iteration 2
+Product Worker ID: 3
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Pickup Order: (0,2,0,0,2,)
+Local State: (0,0,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Updated Pickup Order: (0,2,0,0,2,)
+Updated Local State: (0,0,0,1,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 10
+
+Current Time: 7037732us
+Iteration 3
+Product Worker ID: 7
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 202093us
+Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Pickup Order: (0,0,0,0,3,)
+Local State: (1,0,1,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Updated Pickup Order: (0,0,0,0,3,)
+Updated Local State: (1,0,1,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 10
+
+Current Time: 7040861us
+Iteration 4
+Product Worker ID: 7
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Pickup Order: (0,0,0,0,3,)
+Local State: (1,0,1,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Updated Pickup Order: (0,0,0,0,3,)
+Updated Local State: (1,0,1,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 10
+
+Current Time: 7043463us
+Iteration 3
+Part Worker ID: 14
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Load Order: (1,0,3,0,2,)
+Updated Buffer State: (7,0,4,2,2,7,1,5,4,4,)
+Updated Load Order: (1,0,0,0,0,)
+
+Current Time: 7045587us
+Iteration 2
+Part Worker ID: 1
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,0,4,2,2,7,1,5,4,4,)
+Load Order: (1,2,2,0,1,)
+Updated Buffer State: (7,2,5,2,3,7,1,5,4,4,)
+Updated Load Order: (1,0,1,0,0,)
+
+Current Time: 7047584us
+Iteration 3
+Part Worker ID: 15
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 202463us
+Buffer State: (7,3,5,5,4,7,0,5,1,3,)
+Load Order: (2,0,0,0,0,)
+Updated Buffer State: (7,3,5,5,4,7,0,5,1,3,)
+Updated Load Order: (2,0,0,0,0,)
+
+Current Time: 7193291us
+Iteration 3
+Product Worker ID: 1
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,3,5,5,4,7,0,5,1,3,)
+Pickup Order: (0,1,1,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,2,4,2,4,7,0,5,1,3,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,1,1,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 11
+
+Current Time: 7347469us
+Iteration 4
+Product Worker ID: 1
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,2,4,2,4,7,0,5,1,3,)
+Pickup Order: (0,1,1,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,1,3,0,4,7,0,5,1,3,)
+Updated Pickup Order: (0,0,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,1,1,2,0,)
+Total Completed Products: 11
+
+Current Time: 5025715us
+Iteration 2
+Product Worker ID: 5
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 248901us
+Buffer State: (7,2,1,4,0,7,6,5,5,4,)
+Pickup Order: (0,0,0,0,1,)
+Local State: (2,0,0,0,0,)
+Cart State: (0,0,1,0,1,)
+Updated Buffer State: (7,2,1,4,0,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,1,)
+Updated Local State: (2,0,0,0,0,)
+Updated Cart State: (0,0,1,0,1,)
+Total Completed Products: 11
+
+Current Time: 5028406us
+Iteration 2
+Part Worker ID: 8
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 246981us
+Buffer State: (7,4,1,4,3,7,6,5,5,4,)
+Load Order: (1,0,0,0,0,)
+Updated Buffer State: (7,4,1,4,3,7,6,5,5,4,)
+Updated Load Order: (1,0,0,0,0,)
+
+Current Time: 7649108us
+Iteration 1
+Product Worker ID: 14
+Status: Wakeup-Notified
+Accumulated Wait Time: 753763us
+Buffer State: (7,1,3,0,4,7,0,5,1,3,)
+Pickup Order: (0,0,2,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,1,1,0,2,7,0,5,1,3,)
+Updated Pickup Order: (0,0,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,2,0,2,)
+Total Completed Products: 11
+
+Current Time: 7649108us
+Iteration 1
+Product Worker ID: 14
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 753763us
+Buffer State: (7,1,1,0,2,7,0,5,1,3,)
+Pickup Order: (0,0,0,1,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,2,0,2,)
+Updated Buffer State: (7,1,1,0,2,7,0,5,1,3,)
+Updated Pickup Order: (0,0,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,2,0,2,)
+Total Completed Products: 11
+
+Current Time: 5170300us
+Iteration 2
+Part Worker ID: 6
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 263743us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,1,1,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,1,1,1,1,)
+
+Current Time: 7967581us
+Iteration 3
+Part Worker ID: 6
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,1,1,0,2,7,0,5,1,3,)
+Load Order: (2,1,1,1,1,)
+Updated Buffer State: (7,2,2,1,3,7,0,5,1,3,)
+Updated Load Order: (2,0,0,0,0,)
+
+Current Time: 7969082us
+Iteration 2
+Part Worker ID: 11
+Status: Wakeup-Notified
+Accumulated Wait Time: 293082us
+Buffer State: (7,2,2,1,3,7,0,5,1,3,)
+Load Order: (1,1,0,2,2,)
+Updated Buffer State: (7,3,2,3,4,7,0,5,1,3,)
+Updated Load Order: (1,0,0,0,1,)
+
+Current Time: 7969082us
+Iteration 2
+Part Worker ID: 11
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 293083us
+Buffer State: (7,3,2,3,4,7,0,5,1,3,)
+Load Order: (1,0,0,0,1,)
+Updated Buffer State: (7,3,2,3,4,7,0,5,1,3,)
+Updated Load Order: (1,0,0,0,1,)
+
+Current Time: 8120776us
+Iteration 2
+Part Worker ID: 12
+Status: Wakeup-Notified
+Accumulated Wait Time: 308356us
+Buffer State: (7,3,2,3,4,7,0,5,1,3,)
+Load Order: (0,0,0,1,3,)
+Updated Buffer State: (7,3,2,4,4,7,0,5,1,3,)
+Updated Load Order: (0,0,0,0,3,)
+
+Current Time: 8120776us
+Iteration 2
+Part Worker ID: 12
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 308356us
+Buffer State: (7,3,2,4,4,7,0,5,1,3,)
+Load Order: (0,0,0,0,3,)
+Updated Buffer State: (7,3,2,4,4,7,0,5,1,3,)
+Updated Load Order: (0,0,0,0,3,)
+
+Current Time: 8271840us
+Iteration 2
+Part Worker ID: 18
+Status: Wakeup-Notified
+Accumulated Wait Time: 323634us
+Buffer State: (7,3,5,5,4,7,0,2,0,3,)
+Load Order: (1,2,0,2,1,)
+Updated Buffer State: (7,5,5,5,4,7,0,2,0,3,)
+Updated Load Order: (1,0,0,2,1,)
+
+Current Time: 8271840us
+Iteration 2
+Part Worker ID: 18
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 323635us
+Buffer State: (7,5,5,5,4,7,0,2,0,3,)
+Load Order: (1,0,0,2,1,)
+Updated Buffer State: (7,5,5,5,4,7,0,2,0,3,)
+Updated Load Order: (1,0,0,2,1,)
+
+Current Time: 8429733us
+Iteration 2
+Part Worker ID: 13
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 339593us
+Buffer State: (7,5,5,5,4,7,0,2,0,3,)
+Load Order: (2,0,0,1,1,)
+Updated Buffer State: (7,5,5,5,4,7,0,2,0,3,)
+Updated Load Order: (2,0,0,1,1,)
+
+Current Time: 8585296us
+Iteration 2
+Part Worker ID: 19
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 355269us
+Buffer State: (7,5,5,5,4,7,0,2,0,3,)
+Load Order: (0,0,0,1,1,)
+Updated Buffer State: (7,5,5,5,4,7,0,2,0,3,)
+Updated Load Order: (0,0,0,1,1,)
+
+Current Time: 5038370us
+Iteration 2
+Part Worker ID: 10
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 370667us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,3,1,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,3,1,2,0,)
+
+Current Time: 8900623us
+Iteration 3
+Part Worker ID: 10
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,5,5,5,4,7,0,2,0,3,)
+Load Order: (0,3,1,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,0,2,0,3,)
+Updated Load Order: (0,2,1,2,0,)
+
+Current Time: 8903211us
+Iteration 2
+Part Worker ID: 17
+Status: Wakeup-Notified
+Accumulated Wait Time: 465663us
+Buffer State: (7,6,5,5,4,7,0,2,0,3,)
+Load Order: (1,1,2,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,1,4,1,4,)
+Updated Load Order: (1,0,0,0,0,)
+
+Current Time: 8903211us
+Iteration 2
+Part Worker ID: 17
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 465664us
+Buffer State: (7,6,5,5,4,7,1,4,1,4,)
+Load Order: (1,0,0,0,0,)
+Updated Buffer State: (7,6,5,5,4,7,1,4,1,4,)
+Updated Load Order: (1,0,0,0,0,)
+
+Current Time: 9060655us
+Iteration 3
+Part Worker ID: 3
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,1,4,1,4,)
+Load Order: (1,0,3,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,1,5,2,4,)
+Updated Load Order: (1,0,2,0,1,)
+
+Current Time: 5647565us
+Iteration 4
+Product Worker ID: 15
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 341388us
+Buffer State: (7,0,5,0,4,7,6,5,5,4,)
+Pickup Order: (0,3,0,1,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,1,0,)
+Updated Buffer State: (7,0,5,0,4,7,6,5,5,4,)
+Updated Pickup Order: (0,3,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,1,0,)
+Total Completed Products: 11
+
+Current Time: 9213839us
+Iteration 5
+Product Worker ID: 15
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,1,5,2,4,)
+Pickup Order: (0,3,0,1,0,)
+Local State: (0,0,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,3,5,4,4,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,1,0,)
+Updated Cart State: (0,3,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 12
+
+Current Time: 9369448us
+Iteration 4
+Part Worker ID: 20
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,3,5,4,4,7,1,5,2,4,)
+Load Order: (0,1,1,1,3,)
+Updated Buffer State: (7,4,5,5,4,7,1,5,2,4,)
+Updated Load Order: (0,0,1,0,3,)
+
+Current Time: 9372102us
+Iteration 3
+Part Worker ID: 4
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,4,5,5,4,7,1,5,2,4,)
+Load Order: (2,0,1,1,2,)
+Updated Buffer State: (7,4,5,5,4,7,1,5,2,4,)
+Updated Load Order: (2,0,1,1,2,)
+
+Current Time: 9374895us
+Iteration 2
+Product Worker ID: 10
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,4,5,5,4,7,1,5,2,4,)
+Pickup Order: (0,1,0,0,0,)
+Local State: (0,0,0,3,1,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,3,5,5,4,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,3,1,)
+Updated Cart State: (0,1,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 13
+
+Current Time: 9523361us
+Iteration 3
+Product Worker ID: 10
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,3,5,5,4,7,1,5,2,4,)
+Pickup Order: (0,1,0,3,1,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,2,5,2,3,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,1,0,3,1,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 14
+
+Current Time: 9683480us
+Iteration 4
+Product Worker ID: 10
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,2,5,2,3,7,1,5,2,4,)
+Pickup Order: (0,1,0,3,1,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,1,5,0,2,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,1,0,2,1,)
+Total Completed Products: 14
+
+Current Time: 9686269us
+Iteration 1
+Product Worker ID: 6
+Status: Wakeup-Notified
+Accumulated Wait Time: 960349us
+Buffer State: (7,1,5,0,2,7,1,5,2,4,)
+Pickup Order: (3,0,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (4,1,5,0,2,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (3,0,0,0,0,)
+Total Completed Products: 14
+
+Current Time: 9686269us
+Iteration 1
+Product Worker ID: 6
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 960349us
+Buffer State: (4,1,5,0,2,7,1,5,2,4,)
+Pickup Order: (0,0,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (3,0,0,0,0,)
+Updated Buffer State: (4,1,5,0,2,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (3,0,0,0,0,)
+Total Completed Products: 14
+
+Current Time: 9839644us
+Iteration 2
+Product Worker ID: 6
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (4,1,5,0,2,7,1,5,2,4,)
+Pickup Order: (0,0,0,2,0,)
+Local State: (3,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (4,1,5,0,2,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,2,0,)
+Updated Local State: (3,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 14
+
+Current Time: 9841255us
+Iteration 2
+Product Worker ID: 4
+Status: Wakeup-Notified
+Accumulated Wait Time: 745840us
+Buffer State: (4,1,5,0,2,7,1,5,2,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (2,0,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (4,1,5,0,0,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (2,0,0,1,0,)
+Updated Cart State: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 15
+
+Current Time: 9998526us
+Iteration 3
+Product Worker ID: 4
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (4,1,5,0,0,7,1,5,2,4,)
+Pickup Order: (2,0,0,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (2,1,5,0,0,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,1,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,0,0,0,)
+Total Completed Products: 15
+
+Current Time: 10002094us
+Iteration 4
+Product Worker ID: 11
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 312399us
+Buffer State: (2,1,5,0,0,7,1,5,2,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,1,0,0,)
+Cart State: (0,0,0,2,0,)
+Updated Buffer State: (2,1,5,0,0,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,1,0,0,)
+Updated Cart State: (0,0,0,2,0,)
+Total Completed Products: 15
+
+Current Time: 10150700us
+Iteration 2
+Product Worker ID: 16
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (2,1,5,0,0,7,1,5,2,4,)
+Pickup Order: (1,0,1,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (1,1,4,0,0,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,0,1,0,0,)
+Total Completed Products: 15
+
+Current Time: 7040861us
+Iteration 4
+Product Worker ID: 7
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 311054us
+Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Pickup Order: (0,0,0,0,3,)
+Local State: (1,0,1,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,0,1,2,0,7,1,5,4,4,)
+Updated Pickup Order: (0,0,0,0,3,)
+Updated Local State: (1,0,1,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 15
+
+Current Time: 10155603us
+Iteration 5
+Product Worker ID: 7
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (1,1,4,0,0,7,1,5,2,4,)
+Pickup Order: (0,0,0,0,3,)
+Local State: (1,0,1,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (1,1,4,0,0,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,3,)
+Updated Local State: (1,0,1,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 15
+
+Current Time: 10157285us
+Iteration 3
+Part Worker ID: 14
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 311196us
+Buffer State: (7,2,5,2,4,1,0,4,0,0,)
+Load Order: (1,0,0,0,0,)
+Updated Buffer State: (7,2,5,2,4,1,0,4,0,0,)
+Updated Load Order: (1,0,0,0,0,)
+
+Current Time: 10302247us
+Iteration 4
+Part Worker ID: 2
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,2,5,2,4,1,0,4,0,0,)
+Load Order: (2,1,1,2,0,)
+Updated Buffer State: (7,3,5,4,4,1,0,4,0,0,)
+Updated Load Order: (2,0,1,0,0,)
+
+Current Time: 10303462us
+Iteration 2
+Part Worker ID: 1
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 325611us
+Buffer State: (7,3,5,4,4,1,0,4,0,0,)
+Load Order: (1,0,1,0,0,)
+Updated Buffer State: (7,3,5,4,4,1,0,4,0,0,)
+Updated Load Order: (1,0,1,0,0,)
+
+Current Time: 10452401us
+Iteration 2
+Part Worker ID: 7
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,3,5,4,4,1,0,4,0,0,)
+Load Order: (1,3,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,1,0,4,0,0,)
+Updated Load Order: (1,0,0,0,1,)
+
+Current Time: 10455003us
+Iteration 3
+Product Worker ID: 5
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,1,0,4,0,0,)
+Pickup Order: (0,0,0,0,1,)
+Local State: (2,0,1,0,1,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,6,5,5,3,1,0,4,0,0,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (2,0,1,0,1,)
+Updated Cart State: (0,0,0,0,1,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 16
+
+Current Time: 10608503us
+Iteration 2
+Part Worker ID: 7
+Status: Wakeup-Notified
+Accumulated Wait Time: 15419us
+Buffer State: (7,6,5,5,3,1,0,4,0,0,)
+Load Order: (1,0,0,0,1,)
+Updated Buffer State: (7,6,5,5,4,1,0,4,0,0,)
+Updated Load Order: (1,0,0,0,0,)
+
+Current Time: 10609776us
+Iteration 3
+Part Worker ID: 8
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,1,0,4,0,0,)
+Load Order: (1,2,0,0,3,)
+Updated Buffer State: (7,6,5,5,4,2,2,4,0,3,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 10611124us
+Iteration 2
+Product Worker ID: 14
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,2,2,4,0,3,)
+Pickup Order: (0,0,0,1,0,)
+Local State: (0,0,2,0,2,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,6,5,4,4,2,2,4,0,3,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,2,0,2,)
+Updated Cart State: (0,0,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 17
+
+Current Time: 10772214us
+Iteration 3
+Product Worker ID: 14
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,4,4,2,2,4,0,3,)
+Pickup Order: (0,0,2,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,6,3,3,2,2,2,4,0,3,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,2,1,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 18
+
+Current Time: 10919653us
+Iteration 4
+Product Worker ID: 14
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,3,3,2,2,2,4,0,3,)
+Pickup Order: (0,0,2,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,6,1,2,0,2,2,4,0,3,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,2,1,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 19
+
+Current Time: 11071198us
+Iteration 5
+Product Worker ID: 14
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,1,2,0,2,2,4,0,3,)
+Pickup Order: (0,0,2,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,6,0,1,0,2,2,4,0,3,)
+Updated Pickup Order: (0,0,1,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,1,1,0,)
+Total Completed Products: 19
+
+Current Time: 11073173us
+Iteration 3
+Part Worker ID: 12
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,0,1,0,2,2,4,0,3,)
+Load Order: (0,0,2,1,3,)
+Updated Buffer State: (7,6,2,2,3,2,2,4,0,3,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 11076144us
+Iteration 3
+Part Worker ID: 18
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,2,2,3,2,2,4,0,3,)
+Load Order: (1,2,0,2,1,)
+Updated Buffer State: (7,6,2,4,4,2,2,4,0,3,)
+Updated Load Order: (1,2,0,0,0,)
+
+Current Time: 11082562us
+Iteration 3
+Part Worker ID: 13
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,2,4,4,2,2,4,0,3,)
+Load Order: (2,2,0,1,1,)
+Updated Buffer State: (7,6,2,5,4,2,2,4,0,3,)
+Updated Load Order: (2,2,0,0,1,)
+
+Current Time: 11085007us
+Iteration 3
+Part Worker ID: 19
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,2,5,4,2,2,4,0,3,)
+Load Order: (0,0,2,2,2,)
+Updated Buffer State: (7,6,4,5,4,2,2,4,0,3,)
+Updated Load Order: (0,0,0,2,2,)
+
+Current Time: 11086494us
+Iteration 2
+Part Worker ID: 5
+Status: Wakeup-Notified
+Accumulated Wait Time: 684112us
+Buffer State: (7,6,4,5,4,2,2,4,0,3,)
+Load Order: (2,1,2,1,0,)
+Updated Buffer State: (7,6,5,5,4,2,2,4,0,3,)
+Updated Load Order: (2,1,1,1,0,)
+
+Current Time: 11086494us
+Iteration 2
+Part Worker ID: 5
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 684113us
+Buffer State: (7,6,5,5,4,2,2,4,0,3,)
+Load Order: (2,1,1,1,0,)
+Updated Buffer State: (7,6,5,5,4,2,2,4,0,3,)
+Updated Load Order: (2,1,1,1,0,)
+
+Current Time: 11231463us
+Iteration 3
+Part Worker ID: 17
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,2,2,4,0,3,)
+Load Order: (1,1,2,1,1,)
+Updated Buffer State: (7,6,5,5,4,3,3,5,1,4,)
+Updated Load Order: (0,0,1,0,0,)
+
+Current Time: 8900623us
+Iteration 3
+Part Worker ID: 10
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 233013us
+Buffer State: (7,6,5,5,4,7,0,2,0,3,)
+Load Order: (0,2,1,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,0,2,0,3,)
+Updated Load Order: (0,2,1,2,0,)
+
+Current Time: 11389064us
+Iteration 3
+Part Worker ID: 9
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,3,3,5,1,4,)
+Load Order: (1,0,2,2,1,)
+Updated Buffer State: (7,6,5,5,4,4,3,5,3,4,)
+Updated Load Order: (0,0,2,0,1,)
+
+Current Time: 11390764us
+Iteration 3
+Part Worker ID: 3
+Status: Wakeup-Notified
+Accumulated Wait Time: 232849us
+Buffer State: (7,6,5,5,4,4,3,5,3,4,)
+Load Order: (1,0,2,0,1,)
+Updated Buffer State: (7,6,5,5,4,5,3,5,3,4,)
+Updated Load Order: (0,0,2,0,1,)
+
+Current Time: 11390764us
+Iteration 3
+Part Worker ID: 3
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 232849us
+Buffer State: (7,6,5,5,4,5,3,5,3,4,)
+Load Order: (0,0,2,0,1,)
+Updated Buffer State: (7,6,5,5,4,5,3,5,3,4,)
+Updated Load Order: (0,0,2,0,1,)
+
+Current Time: 11540969us
+Iteration 2
+Product Worker ID: 8
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,5,3,5,3,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (1,2,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,6,5,5,2,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (1,2,0,0,0,)
+Updated Cart State: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 20
+
+Current Time: 11700241us
+Iteration 3
+Product Worker ID: 8
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,2,5,3,5,3,4,)
+Pickup Order: (1,2,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,4,5,5,0,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,2,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 21
+
+Current Time: 11855436us
+Iteration 4
+Product Worker ID: 8
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (6,4,5,5,0,5,3,5,3,4,)
+Pickup Order: (1,2,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,2,5,5,0,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,2,0,0,0,)
+Total Completed Products: 21
+
+Current Time: 11857461us
+Iteration 3
+Product Worker ID: 9
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (5,2,5,5,0,5,3,5,3,4,)
+Pickup Order: (0,0,2,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,2,3,4,0,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,2,1,0,)
+Total Completed Products: 21
+
+Current Time: 6718014us
+Iteration 5
+Product Worker ID: 13
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 529521us
+Buffer State: (7,0,1,5,0,7,1,5,4,4,)
+Pickup Order: (0,3,0,0,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,1,0,1,)
+Updated Buffer State: (7,0,1,5,0,7,1,5,4,4,)
+Updated Pickup Order: (0,3,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,1,0,1,)
+Total Completed Products: 21
+
+Current Time: 9839607us
+Iteration 4
+Product Worker ID: 10
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 232670us
+Buffer State: (4,1,5,0,2,7,1,5,2,4,)
+Pickup Order: (0,0,0,1,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,1,0,2,1,)
+Updated Buffer State: (4,1,5,0,2,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,1,0,2,1,)
+Total Completed Products: 21
+
+Current Time: 12173611us
+Iteration 2
+Product Worker ID: 6
+Status: Wakeup-Notified
+Accumulated Wait Time: 233253us
+Buffer State: (5,2,3,4,0,5,3,5,3,4,)
+Pickup Order: (0,0,0,2,0,)
+Local State: (3,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,2,3,2,0,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (3,0,0,0,0,)
+Updated Cart State: (0,0,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 22
+
+Current Time: 12337271us
+Iteration 3
+Product Worker ID: 6
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (5,2,3,2,0,5,3,5,3,4,)
+Pickup Order: (3,0,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (2,2,3,0,0,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (3,0,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 23
+
+Current Time: 12491576us
+Iteration 4
+Product Worker ID: 6
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (2,2,3,0,0,5,3,5,3,4,)
+Pickup Order: (3,0,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,2,3,0,0,5,3,5,3,4,)
+Updated Pickup Order: (1,0,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,0,0,0,)
+Total Completed Products: 23
+
+Current Time: 12493606us
+Iteration 2
+Product Worker ID: 3
+Status: Wakeup-Notified
+Accumulated Wait Time: 545612us
+Buffer State: (0,2,3,0,0,5,3,5,3,4,)
+Pickup Order: (0,2,0,0,2,)
+Local State: (0,0,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,3,0,0,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,1,0,)
+Updated Cart State: (0,2,0,0,0,)
+Total Completed Products: 23
+
+Current Time: 12493606us
+Iteration 2
+Product Worker ID: 3
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 545612us
+Buffer State: (0,0,3,0,0,5,3,5,3,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,0,1,0,)
+Cart State: (0,2,0,0,0,)
+Updated Buffer State: (0,0,3,0,0,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,1,0,)
+Updated Cart State: (0,2,0,0,0,)
+Total Completed Products: 23
+
+Current Time: 12651681us
+Iteration 2
+Product Worker ID: 16
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 249854us
+Buffer State: (0,0,3,0,0,5,3,5,3,4,)
+Pickup Order: (0,0,0,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (1,0,1,0,0,)
+Updated Buffer State: (0,0,3,0,0,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,0,1,0,0,)
+Total Completed Products: 23
+
+Current Time: 12802492us
+Iteration 3
+Product Worker ID: 16
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,3,0,0,5,3,5,3,4,)
+Pickup Order: (0,0,0,3,0,)
+Local State: (1,0,1,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (0,0,3,0,0,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,3,0,)
+Updated Local State: (1,0,1,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 23
+
+Current Time: 12805092us
+Iteration 4
+Part Worker ID: 14
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (0,0,3,0,0,5,3,5,3,4,)
+Load Order: (1,0,3,0,2,)
+Updated Buffer State: (1,0,5,0,2,5,3,5,3,4,)
+Updated Load Order: (0,0,1,0,0,)
+
+Current Time: 10155603us
+Iteration 5
+Product Worker ID: 7
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 264938us
+Buffer State: (1,1,4,0,0,7,1,5,2,4,)
+Pickup Order: (0,0,0,0,3,)
+Local State: (1,0,1,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (1,1,4,0,0,7,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,3,)
+Updated Local State: (1,0,1,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 23
+
+Current Time: 12809403us
+Iteration 3
+Product Worker ID: 16
+Status: Wakeup-Notified
+Accumulated Wait Time: 448us
+Buffer State: (6,3,5,3,4,0,0,5,0,2,)
+Pickup Order: (0,0,0,3,0,)
+Local State: (1,0,1,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,3,5,0,4,0,0,5,0,2,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (1,0,1,0,0,)
+Updated Cart State: (0,0,0,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 24
+
+Current Time: 12959334us
+Iteration 4
+Product Worker ID: 16
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (6,3,5,0,4,0,0,5,0,2,)
+Pickup Order: (1,0,1,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,3,4,0,4,0,0,5,0,2,)
+Updated Pickup Order: (0,0,0,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,0,1,0,0,)
+Total Completed Products: 24
+
+Current Time: 7499677us
+Iteration 4
+Product Worker ID: 1
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 561184us
+Buffer State: (7,1,3,0,4,7,0,5,1,3,)
+Pickup Order: (0,0,0,1,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,1,1,2,0,)
+Updated Buffer State: (7,1,3,0,4,7,0,5,1,3,)
+Updated Pickup Order: (0,0,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,1,1,2,0,)
+Total Completed Products: 24
+
+Current Time: 13115590us
+Iteration 4
+Part Worker ID: 8
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (5,3,4,0,4,0,0,5,0,2,)
+Load Order: (1,2,0,0,3,)
+Updated Buffer State: (6,5,4,0,4,0,0,5,0,2,)
+Updated Load Order: (0,0,0,0,3,)
+
+Current Time: 13116915us
+Iteration 2
+Part Worker ID: 16
+Status: Wakeup-Notified
+Accumulated Wait Time: 778395us
+Buffer State: (6,5,4,0,4,0,0,5,0,2,)
+Load Order: (0,0,1,2,3,)
+Updated Buffer State: (6,5,5,2,4,0,0,5,0,2,)
+Updated Load Order: (0,0,0,0,3,)
+
+Current Time: 13116915us
+Iteration 2
+Part Worker ID: 16
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 778395us
+Buffer State: (6,5,5,2,4,0,0,5,0,2,)
+Load Order: (0,0,0,0,3,)
+Updated Buffer State: (6,5,5,2,4,0,0,5,0,2,)
+Updated Load Order: (0,0,0,0,3,)
+
+Current Time: 13270350us
+Iteration 3
+Part Worker ID: 11
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (6,5,5,2,4,0,0,5,0,2,)
+Load Order: (1,1,0,2,2,)
+Updated Buffer State: (7,6,5,4,4,0,0,5,0,2,)
+Updated Load Order: (0,0,0,0,2,)
+
+Current Time: 7967581us
+Iteration 3
+Part Worker ID: 6
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 530347us
+Buffer State: (7,2,2,1,3,7,0,5,1,3,)
+Load Order: (2,0,0,0,0,)
+Updated Buffer State: (7,2,2,1,3,7,0,5,1,3,)
+Updated Load Order: (2,0,0,0,0,)
+
+Current Time: 13429897us
+Iteration 4
+Part Worker ID: 12
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,4,4,0,0,5,0,2,)
+Load Order: (0,0,2,1,3,)
+Updated Buffer State: (7,6,5,5,4,0,0,5,0,2,)
+Updated Load Order: (0,0,2,0,3,)
+
+Current Time: 11082562us
+Iteration 3
+Part Worker ID: 13
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 234724us
+Buffer State: (7,6,2,5,4,2,2,4,0,3,)
+Load Order: (2,2,0,0,1,)
+Updated Buffer State: (7,6,2,5,4,2,2,4,0,3,)
+Updated Load Order: (2,2,0,0,1,)
+
+Current Time: 13588614us
+Iteration 3
+Part Worker ID: 5
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,0,0,5,0,2,)
+Load Order: (2,1,2,1,0,)
+Updated Buffer State: (7,6,5,5,4,2,1,5,1,2,)
+Updated Load Order: (0,0,2,0,0,)
+
+Current Time: 11076144us
+Iteration 3
+Part Worker ID: 18
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 250943us
+Buffer State: (7,6,2,4,4,2,2,4,0,3,)
+Load Order: (1,2,0,0,0,)
+Updated Buffer State: (7,6,2,4,4,2,2,4,0,3,)
+Updated Load Order: (1,2,0,0,0,)
+
+Current Time: 13743167us
+Iteration 3
+Part Worker ID: 17
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 251024us
+Buffer State: (7,6,5,5,4,2,1,5,1,2,)
+Load Order: (0,0,1,0,0,)
+Updated Buffer State: (7,6,5,5,4,2,1,5,1,2,)
+Updated Load Order: (0,0,1,0,0,)
+
+Current Time: 13895158us
+Iteration 5
+Product Worker ID: 14
+Status: Wakeup-Notified
+Accumulated Wait Time: 282213us
+Buffer State: (7,6,5,5,4,2,1,5,1,2,)
+Pickup Order: (0,0,1,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,1,1,0,)
+Updated Buffer State: (7,6,4,5,2,2,1,5,1,2,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,2,1,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 25
+
+Current Time: 11085007us
+Iteration 3
+Part Worker ID: 19
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 296435us
+Buffer State: (7,6,4,5,4,2,2,4,0,3,)
+Load Order: (0,0,0,2,2,)
+Updated Buffer State: (7,6,4,5,4,2,2,4,0,3,)
+Updated Load Order: (0,0,0,2,2,)
+
+Current Time: 14200999us
+Iteration 4
+Part Worker ID: 10
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,4,5,2,2,1,5,1,2,)
+Load Order: (0,3,1,2,0,)
+Updated Buffer State: (7,6,5,5,2,2,1,5,1,2,)
+Updated Load Order: (0,3,0,2,0,)
+
+Current Time: 14202338us
+Iteration 4
+Part Worker ID: 3
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,2,2,1,5,1,2,)
+Load Order: (1,0,3,1,1,)
+Updated Buffer State: (7,6,5,5,3,2,1,5,1,2,)
+Updated Load Order: (1,0,3,1,0,)
+
+Current Time: 11389064us
+Iteration 3
+Part Worker ID: 9
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 281353us
+Buffer State: (7,6,5,5,4,4,3,5,3,4,)
+Load Order: (0,0,2,0,1,)
+Updated Buffer State: (7,6,5,5,4,4,3,5,3,4,)
+Updated Load Order: (0,0,2,0,1,)
+
+Current Time: 14361349us
+Iteration 3
+Part Worker ID: 4
+Status: Wakeup-Notified
+Accumulated Wait Time: 498657us
+Buffer State: (7,6,5,5,4,2,1,5,1,1,)
+Load Order: (2,0,1,1,2,)
+Updated Buffer State: (7,6,5,5,4,4,1,5,2,3,)
+Updated Load Order: (0,0,1,0,0,)
+
+Current Time: 14361349us
+Iteration 3
+Part Worker ID: 4
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 498658us
+Buffer State: (7,6,5,5,4,4,1,5,2,3,)
+Load Order: (0,0,1,0,0,)
+Updated Buffer State: (7,6,5,5,4,4,1,5,2,3,)
+Updated Load Order: (0,0,1,0,0,)
+
+Current Time: 14516276us
+Iteration 4
+Part Worker ID: 20
+Status: Wakeup-Notified
+Accumulated Wait Time: 514454us
+Buffer State: (7,6,5,5,4,4,1,5,2,3,)
+Load Order: (0,0,1,0,3,)
+Updated Buffer State: (7,6,5,5,4,4,1,5,2,4,)
+Updated Load Order: (0,0,1,0,2,)
+
+Current Time: 14516276us
+Iteration 4
+Part Worker ID: 20
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 514454us
+Buffer State: (7,6,5,5,4,4,1,5,2,4,)
+Load Order: (0,0,1,0,2,)
+Updated Buffer State: (7,6,5,5,4,4,1,5,2,4,)
+Updated Load Order: (0,0,1,0,2,)
+
+Current Time: 14667779us
+Iteration 4
+Product Worker ID: 8
+Status: Wakeup-Notified
+Accumulated Wait Time: 281055us
+Buffer State: (7,6,5,5,4,4,1,5,2,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (1,2,0,0,0,)
+Updated Buffer State: (7,6,5,5,2,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,2,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 26
+
+Current Time: 14824065us
+Iteration 5
+Product Worker ID: 8
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,2,4,1,5,2,4,)
+Pickup Order: (1,2,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,4,5,5,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,2,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 27
+
+Current Time: 12012045us
+Iteration 3
+Product Worker ID: 9
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 311500us
+Buffer State: (5,2,3,4,0,5,3,5,3,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,2,1,0,)
+Updated Buffer State: (5,2,3,4,0,5,3,5,3,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,2,1,0,)
+Total Completed Products: 27
+
+Current Time: 15135121us
+Iteration 4
+Product Worker ID: 9
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (6,4,5,5,0,4,1,5,2,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,2,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,4,5,5,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,2,1,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 27
+
+Current Time: 15136630us
+Iteration 2
+Product Worker ID: 2
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 1011803us
+Buffer State: (6,4,5,5,0,4,1,5,2,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (1,0,0,0,0,)
+Cart State: (1,1,0,0,0,)
+Updated Buffer State: (6,4,5,5,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (1,0,0,0,0,)
+Updated Cart State: (1,1,0,0,0,)
+Total Completed Products: 27
+
+Current Time: 15284954us
+Iteration 3
+Product Worker ID: 3
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (6,4,5,5,0,4,1,5,2,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,2,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,4,5,5,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,2,0,1,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 27
+
+Current Time: 15287530us
+Iteration 3
+Product Worker ID: 4
+Status: Wakeup-Notified
+Accumulated Wait Time: 528690us
+Buffer State: (6,4,5,5,0,4,1,5,2,4,)
+Pickup Order: (0,0,0,1,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (2,0,0,0,0,)
+Updated Buffer State: (6,4,5,4,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,0,1,0,)
+Total Completed Products: 27
+
+Current Time: 15287530us
+Iteration 3
+Product Worker ID: 4
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 528690us
+Buffer State: (6,4,5,4,0,4,1,5,2,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (2,0,0,1,0,)
+Updated Buffer State: (6,4,5,4,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,0,1,0,)
+Total Completed Products: 27
+
+Current Time: 15438449us
+Iteration 4
+Product Worker ID: 4
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (6,4,5,4,0,4,1,5,2,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (2,0,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,4,5,4,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (2,0,0,1,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 27
+
+Current Time: 15441462us
+Iteration 4
+Part Worker ID: 15
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (6,4,5,4,0,4,1,5,2,4,)
+Load Order: (2,1,0,2,1,)
+Updated Buffer State: (7,5,5,5,1,4,1,5,2,4,)
+Updated Load Order: (1,0,0,1,0,)
+
+Current Time: 10302247us
+Iteration 4
+Part Worker ID: 2
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 513935us
+Buffer State: (7,3,5,4,4,1,0,4,0,0,)
+Load Order: (2,0,1,0,0,)
+Updated Buffer State: (7,3,5,4,4,1,0,4,0,0,)
+Updated Load Order: (2,0,1,0,0,)
+
+Current Time: 15591789us
+Iteration 3
+Part Worker ID: 1
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,5,5,5,1,4,1,5,2,4,)
+Load Order: (1,2,2,0,1,)
+Updated Buffer State: (7,6,5,5,2,4,1,5,2,4,)
+Updated Load Order: (1,1,2,0,0,)
+
+Current Time: 15594310us
+Iteration 4
+Product Worker ID: 5
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,2,4,1,5,2,4,)
+Pickup Order: (2,0,1,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,6,4,5,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,1,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 28
+
+Current Time: 15751273us
+Iteration 5
+Product Worker ID: 5
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (5,6,4,5,0,4,1,5,2,4,)
+Pickup Order: (2,0,1,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (3,6,3,5,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,1,0,0,)
+Total Completed Products: 28
+
+Current Time: 15753364us
+Iteration 5
+Product Worker ID: 1
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (3,6,3,5,0,4,1,5,2,4,)
+Pickup Order: (0,0,0,1,0,)
+Local State: (0,1,1,2,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (3,6,3,4,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,1,1,2,0,)
+Updated Cart State: (0,0,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 29
+
+Current Time: 10608503us
+Iteration 2
+Part Worker ID: 7
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 544998us
+Buffer State: (7,6,5,5,4,1,0,4,0,0,)
+Load Order: (1,0,0,0,0,)
+Updated Buffer State: (7,6,5,5,4,1,0,4,0,0,)
+Updated Load Order: (1,0,0,0,0,)
+
+Current Time: 13115426us
+Iteration 4
+Product Worker ID: 16
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 310117us
+Buffer State: (5,3,4,0,4,0,0,5,0,2,)
+Pickup Order: (0,0,0,3,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (1,0,1,0,0,)
+Updated Buffer State: (5,3,4,0,4,0,0,5,0,2,)
+Updated Pickup Order: (0,0,0,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,0,1,0,0,)
+Total Completed Products: 29
+
+Current Time: 16214721us
+Iteration 5
+Product Worker ID: 16
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (3,6,3,4,0,4,1,5,2,4,)
+Pickup Order: (0,0,0,3,0,)
+Local State: (1,0,1,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (3,6,3,1,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (1,0,1,0,0,)
+Updated Cart State: (0,0,0,3,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 30
+
+Current Time: 16364529us
+Iteration 3
+Part Worker ID: 16
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (3,6,3,1,0,4,1,5,2,4,)
+Load Order: (0,0,1,2,3,)
+Updated Buffer State: (3,6,4,3,3,4,1,5,2,4,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 13270350us
+Iteration 3
+Part Worker ID: 11
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 309498us
+Buffer State: (7,6,5,4,4,0,0,5,0,2,)
+Load Order: (0,0,0,0,2,)
+Updated Buffer State: (7,6,5,4,4,0,0,5,0,2,)
+Updated Load Order: (0,0,0,0,2,)
+
+Current Time: 16526103us
+Iteration 4
+Part Worker ID: 6
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (3,6,4,3,3,4,1,5,2,4,)
+Load Order: (2,1,1,1,1,)
+Updated Buffer State: (5,6,5,4,4,4,1,5,2,4,)
+Updated Load Order: (0,1,0,0,0,)
+
+Current Time: 13429897us
+Iteration 4
+Part Worker ID: 12
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 309729us
+Buffer State: (7,6,5,5,4,0,0,5,0,2,)
+Load Order: (0,0,2,0,3,)
+Updated Buffer State: (7,6,5,5,4,0,0,5,0,2,)
+Updated Load Order: (0,0,2,0,3,)
+
+Current Time: 16688253us
+Iteration 4
+Part Worker ID: 13
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (5,6,5,4,4,4,1,5,2,4,)
+Load Order: (2,2,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,4,1,5,2,4,)
+Updated Load Order: (0,2,0,0,1,)
+
+Current Time: 16690176us
+Iteration 4
+Part Worker ID: 18
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,4,1,5,2,4,)
+Load Order: (1,2,0,2,1,)
+Updated Buffer State: (7,6,5,5,4,5,3,5,4,4,)
+Updated Load Order: (0,0,0,0,1,)
+
+Current Time: 13588614us
+Iteration 3
+Part Worker ID: 5
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 310140us
+Buffer State: (7,6,5,5,4,2,1,5,1,2,)
+Load Order: (0,0,2,0,0,)
+Updated Buffer State: (7,6,5,5,4,2,1,5,1,2,)
+Updated Load Order: (0,0,2,0,0,)
+
+Current Time: 16847322us
+Iteration 4
+Part Worker ID: 17
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,5,3,5,4,4,)
+Load Order: (1,1,2,1,1,)
+Updated Buffer State: (7,6,5,5,4,6,4,5,5,4,)
+Updated Load Order: (0,0,2,0,1,)
+
+Current Time: 16853226us
+Iteration 4
+Part Worker ID: 19
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,6,4,5,5,4,)
+Load Order: (0,0,2,2,2,)
+Updated Buffer State: (7,6,5,5,4,6,4,5,5,4,)
+Updated Load Order: (0,0,2,2,2,)
+
+Current Time: 14202338us
+Iteration 4
+Part Worker ID: 3
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 265429us
+Buffer State: (7,6,5,5,3,2,1,5,1,2,)
+Load Order: (1,0,3,1,0,)
+Updated Buffer State: (7,6,5,5,3,2,1,5,1,2,)
+Updated Load Order: (1,0,3,1,0,)
+
+Current Time: 14200999us
+Iteration 4
+Part Worker ID: 10
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 280132us
+Buffer State: (7,6,5,5,2,2,1,5,1,2,)
+Load Order: (0,3,0,2,0,)
+Updated Buffer State: (7,6,5,5,2,2,1,5,1,2,)
+Updated Load Order: (0,3,0,2,0,)
+
+Current Time: 17160235us
+Iteration 4
+Part Worker ID: 9
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,6,4,5,5,4,)
+Load Order: (1,0,2,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,4,5,5,4,)
+Updated Load Order: (0,0,2,2,1,)
+
+Current Time: 17162387us
+Iteration 4
+Part Worker ID: 4
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,4,5,5,4,)
+Load Order: (2,0,1,1,2,)
+Updated Buffer State: (7,6,5,5,4,7,4,5,5,4,)
+Updated Load Order: (2,0,1,1,2,)
+
+Current Time: 17164509us
+Iteration 5
+Part Worker ID: 20
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,4,5,5,4,)
+Load Order: (0,1,1,1,3,)
+Updated Buffer State: (7,6,5,5,4,7,5,5,5,4,)
+Updated Load Order: (0,0,1,1,3,)
+
+Current Time: 17166050us
+Iteration 3
+Product Worker ID: 12
+Status: Wakeup-Notified
+Accumulated Wait Time: 1044582us
+Buffer State: (7,6,5,5,4,7,5,5,5,4,)
+Pickup Order: (0,2,0,0,0,)
+Local State: (1,0,2,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,4,5,5,4,7,5,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (1,0,2,0,0,)
+Updated Cart State: (0,2,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 31
+
+Current Time: 17321547us
+Iteration 4
+Product Worker ID: 12
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,4,5,5,4,7,5,5,5,4,)
+Pickup Order: (1,2,2,0,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,2,3,5,4,7,5,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,2,2,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 32
+
+Current Time: 17475348us
+Iteration 5
+Product Worker ID: 12
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (6,2,3,5,4,7,5,5,5,4,)
+Pickup Order: (1,2,2,0,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,0,1,5,4,7,5,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (1,2,2,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 33
+
+Current Time: 17629577us
+Iteration 5
+Product Worker ID: 11
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (5,0,1,5,4,7,5,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,1,2,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,0,1,5,2,7,5,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,1,2,0,)
+Updated Cart State: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 34
+
+Current Time: 15283537us
+Iteration 4
+Product Worker ID: 9
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 265078us
+Buffer State: (6,4,5,5,0,4,1,5,2,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,2,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,4,5,5,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,2,1,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 34
+
+Current Time: 17790403us
+Iteration 5
+Product Worker ID: 9
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (5,0,1,5,2,7,5,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,2,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,0,1,5,0,7,5,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,2,1,0,)
+Updated Cart State: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 35
+
+Current Time: 17944544us
+Iteration 3
+Product Worker ID: 3
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 265736us
+Buffer State: (5,0,1,5,0,7,5,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,2,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,0,1,5,0,7,5,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,2,0,1,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 35
+
+Current Time: 17948032us
+Iteration 4
+Product Worker ID: 3
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (5,0,1,5,0,7,5,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,2,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,0,1,5,0,7,5,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,2,0,1,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 35
+
+Current Time: 15441462us
+Iteration 4
+Part Worker ID: 15
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 250764us
+Buffer State: (7,5,5,5,1,4,1,5,2,4,)
+Load Order: (1,0,0,1,0,)
+Updated Buffer State: (7,5,5,5,1,4,1,5,2,4,)
+Updated Load Order: (1,0,0,1,0,)
+
+Current Time: 18098963us
+Iteration 5
+Part Worker ID: 2
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (5,0,1,5,0,7,5,5,5,4,)
+Load Order: (2,1,1,2,0,)
+Updated Buffer State: (7,1,2,5,0,7,5,5,5,4,)
+Updated Load Order: (0,0,0,2,0,)
+
+Current Time: 18101888us
+Iteration 3
+Part Worker ID: 1
+Status: Wakeup-Notified
+Accumulated Wait Time: 250871us
+Buffer State: (7,6,5,5,4,7,0,2,5,0,)
+Load Order: (1,1,2,0,0,)
+Updated Buffer State: (7,6,5,5,4,7,1,4,5,0,)
+Updated Load Order: (1,0,0,0,0,)
+
+Current Time: 18101888us
+Iteration 3
+Part Worker ID: 1
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 250871us
+Buffer State: (7,6,5,5,4,7,1,4,5,0,)
+Load Order: (1,0,0,0,0,)
+Updated Buffer State: (7,6,5,5,4,7,1,4,5,0,)
+Updated Load Order: (1,0,0,0,0,)
+
+Current Time: 18256968us
+Iteration 4
+Part Worker ID: 14
+Status: Wakeup-Notified
+Accumulated Wait Time: 545066us
+Buffer State: (7,6,5,5,4,7,1,4,5,0,)
+Load Order: (0,0,1,0,0,)
+Updated Buffer State: (7,6,5,5,4,7,1,5,5,0,)
+Updated Load Order: (0,0,0,0,0,)
+
+Current Time: 18258418us
+Iteration 5
+Product Worker ID: 5
+Status: Wakeup-Notified
+Accumulated Wait Time: 250565us
+Buffer State: (7,6,5,5,4,7,1,5,5,0,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (2,0,1,0,0,)
+Updated Buffer State: (7,6,5,5,2,7,1,5,5,0,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,1,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 36
+
+Current Time: 18408693us
+Iteration 3
+Part Worker ID: 7
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,2,7,1,5,5,0,)
+Load Order: (1,3,0,1,1,)
+Updated Buffer State: (7,6,5,5,3,7,1,5,5,0,)
+Updated Load Order: (1,3,0,1,0,)
+
+Current Time: 13115590us
+Iteration 4
+Part Worker ID: 8
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 529420us
+Buffer State: (6,5,4,0,4,0,0,5,0,2,)
+Load Order: (0,0,0,0,3,)
+Updated Buffer State: (6,5,4,0,4,0,0,5,0,2,)
+Updated Load Order: (0,0,0,0,3,)
+
+Current Time: 18556781us
+Iteration 4
+Part Worker ID: 16
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,3,7,1,5,5,0,)
+Load Order: (0,0,1,2,3,)
+Updated Buffer State: (7,6,5,5,4,7,1,5,5,0,)
+Updated Load Order: (0,0,1,2,2,)
+
+Current Time: 18558324us
+Iteration 4
+Part Worker ID: 11
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,1,5,5,0,)
+Load Order: (1,1,0,2,2,)
+Updated Buffer State: (7,6,5,5,4,7,2,5,5,2,)
+Updated Load Order: (1,0,0,2,0,)
+
+Current Time: 16526103us
+Iteration 4
+Part Worker ID: 6
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 203302us
+Buffer State: (5,6,5,4,4,4,1,5,2,4,)
+Load Order: (0,1,0,0,0,)
+Updated Buffer State: (5,6,5,4,4,4,1,5,2,4,)
+Updated Load Order: (0,1,0,0,0,)
+
+Current Time: 18711281us
+Iteration 5
+Part Worker ID: 12
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,2,5,5,2,)
+Load Order: (0,0,2,1,3,)
+Updated Buffer State: (7,6,5,5,4,7,2,5,5,4,)
+Updated Load Order: (0,0,2,1,1,)
+
+Current Time: 18712716us
+Iteration 4
+Part Worker ID: 5
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,2,5,5,4,)
+Load Order: (2,1,2,1,0,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (2,0,2,1,0,)
+
+Current Time: 16690176us
+Iteration 4
+Part Worker ID: 18
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 202279us
+Buffer State: (7,6,5,5,4,5,3,5,4,4,)
+Load Order: (0,0,0,0,1,)
+Updated Buffer State: (7,6,5,5,4,5,3,5,4,4,)
+Updated Load Order: (0,0,0,0,1,)
+
+Current Time: 16688253us
+Iteration 4
+Part Worker ID: 13
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 218279us
+Buffer State: (7,6,5,5,4,4,1,5,2,4,)
+Load Order: (0,2,0,0,1,)
+Updated Buffer State: (7,6,5,5,4,4,1,5,2,4,)
+Updated Load Order: (0,2,0,0,1,)
+
+Current Time: 16847322us
+Iteration 4
+Part Worker ID: 17
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 218097us
+Buffer State: (7,6,5,5,4,6,4,5,5,4,)
+Load Order: (0,0,2,0,1,)
+Updated Buffer State: (7,6,5,5,4,6,4,5,5,4,)
+Updated Load Order: (0,0,2,0,1,)
+
+Current Time: 19186347us
+Iteration 5
+Part Worker ID: 3
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Load Order: (1,0,3,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (1,0,3,1,1,)
+
+Current Time: 16853226us
+Iteration 4
+Part Worker ID: 19
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 233137us
+Buffer State: (7,6,5,5,4,6,4,5,5,4,)
+Load Order: (0,0,2,2,2,)
+Updated Buffer State: (7,6,5,5,4,6,4,5,5,4,)
+Updated Load Order: (0,0,2,2,2,)
+
+Current Time: 19337485us
+Iteration 5
+Part Worker ID: 19
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Load Order: (0,0,2,2,2,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (0,0,2,2,2,)
+
+Current Time: 19338678us
+Iteration 5
+Part Worker ID: 20
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 217288us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Load Order: (0,0,1,1,3,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (0,0,1,1,3,)
+
+Current Time: 19492637us
+Iteration 4
+Part Worker ID: 9
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 233050us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Load Order: (0,0,2,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (0,0,2,2,1,)
+
+Current Time: 19648933us
+Iteration 5
+Product Worker ID: 10
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Pickup Order: (0,0,0,1,0,)
+Local State: (0,1,0,2,1,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,6,5,4,4,7,3,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,1,0,2,1,)
+Updated Cart State: (0,0,0,1,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 37
+
+Current Time: 19805390us
+Iteration 4
+Part Worker ID: 4
+Status: Wakeup-Notified
+Accumulated Wait Time: 264115us
+Buffer State: (7,6,5,4,4,7,3,5,5,4,)
+Load Order: (2,0,1,1,2,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (2,0,1,0,2,)
+
+Current Time: 19805390us
+Iteration 4
+Part Worker ID: 4
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 264115us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Load Order: (2,0,1,0,2,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (2,0,1,0,2,)
+
+Current Time: 19952258us
+Iteration 3
+Product Worker ID: 2
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (2,1,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,6,5,5,2,7,3,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (2,1,0,0,0,)
+Updated Cart State: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 38
+
+Current Time: 20110612us
+Iteration 4
+Product Worker ID: 2
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,2,7,3,5,5,4,)
+Pickup Order: (2,1,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,5,5,5,0,7,3,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,1,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 39
+
+Current Time: 20266857us
+Iteration 5
+Product Worker ID: 2
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (5,5,5,5,0,7,3,5,5,4,)
+Pickup Order: (2,1,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (3,4,5,5,0,7,3,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,1,0,0,0,)
+Total Completed Products: 39
+
+Current Time: 20268907us
+Iteration 5
+Part Worker ID: 15
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (3,4,5,5,0,7,3,5,5,4,)
+Load Order: (2,1,0,2,1,)
+Updated Buffer State: (5,5,5,5,1,7,3,5,5,4,)
+Updated Load Order: (0,0,0,2,0,)
+
+Current Time: 17948032us
+Iteration 4
+Product Worker ID: 3
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 232053us
+Buffer State: (5,0,1,5,0,7,5,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,2,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,0,1,5,0,7,5,5,5,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (0,2,0,1,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 39
+
+Current Time: 20272060us
+Iteration 5
+Product Worker ID: 3
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (5,5,5,5,1,7,3,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,2,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (5,5,5,5,0,7,3,5,5,4,)
+Updated Pickup Order: (0,0,0,0,1,)
+Updated Local State: (0,2,0,1,0,)
+Updated Cart State: (0,0,0,0,1,)
+Total Completed Products: 39
+
+Current Time: 20274400us
+Iteration 5
+Part Worker ID: 14
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (5,5,5,5,0,7,3,5,5,4,)
+Load Order: (1,0,3,0,2,)
+Updated Buffer State: (6,5,5,5,2,7,3,5,5,4,)
+Updated Load Order: (0,0,3,0,0,)
+
+Current Time: 20275624us
+Iteration 4
+Part Worker ID: 1
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (6,5,5,5,2,7,3,5,5,4,)
+Load Order: (1,2,2,0,1,)
+Updated Buffer State: (7,6,5,5,3,7,3,5,5,4,)
+Updated Load Order: (0,1,2,0,0,)
+
+Current Time: 18408693us
+Iteration 3
+Part Worker ID: 7
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 186632us
+Buffer State: (7,6,5,5,3,7,1,5,5,0,)
+Load Order: (1,3,0,1,0,)
+Updated Buffer State: (7,6,5,5,3,7,1,5,5,0,)
+Updated Load Order: (1,3,0,1,0,)
+
+Current Time: 20423667us
+Iteration 5
+Part Worker ID: 8
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,3,7,3,5,5,4,)
+Load Order: (1,2,0,0,3,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (1,2,0,0,2,)
+
+Current Time: 18558324us
+Iteration 4
+Part Worker ID: 11
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 186537us
+Buffer State: (7,6,5,5,4,7,2,5,5,2,)
+Load Order: (1,0,0,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,2,5,5,2,)
+Updated Load Order: (1,0,0,2,0,)
+
+Current Time: 18556781us
+Iteration 4
+Part Worker ID: 16
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 202058us
+Buffer State: (7,6,5,5,4,7,1,5,5,0,)
+Load Order: (0,0,1,2,2,)
+Updated Buffer State: (7,6,5,5,4,7,1,5,5,0,)
+Updated Load Order: (0,0,1,2,2,)
+
+Current Time: 20735253us
+Iteration 5
+Part Worker ID: 6
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Load Order: (2,1,1,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,4,5,5,4,)
+Updated Load Order: (2,0,1,1,1,)
+
+Current Time: 18712716us
+Iteration 4
+Part Worker ID: 5
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 202419us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Load Order: (2,0,2,1,0,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (2,0,2,1,0,)
+
+Current Time: 20891950us
+Iteration 5
+Part Worker ID: 18
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,4,5,5,4,)
+Load Order: (1,2,0,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,0,0,2,1,)
+
+Current Time: 18711281us
+Iteration 5
+Part Worker ID: 12
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 218112us
+Buffer State: (7,6,5,5,4,7,2,5,5,4,)
+Load Order: (0,0,2,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,2,5,5,4,)
+Updated Load Order: (0,0,2,1,1,)
+
+Current Time: 21053237us
+Iteration 5
+Part Worker ID: 13
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,2,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,2,0,1,1,)
+
+Current Time: 21056230us
+Iteration 5
+Part Worker ID: 17
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,1,2,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,1,2,1,1,)
+
+Current Time: 21059106us
+Iteration 5
+Part Worker ID: 10
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,3,1,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,3,1,2,0,)
+
+Current Time: 19186347us
+Iteration 5
+Part Worker ID: 3
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 187354us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Load Order: (1,0,3,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (1,0,3,1,1,)
+
+Current Time: 19337485us
+Iteration 5
+Part Worker ID: 19
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 187030us
+Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Load Order: (0,0,2,2,2,)
+Updated Buffer State: (7,6,5,5,4,7,3,5,5,4,)
+Updated Load Order: (0,0,2,2,2,)
+
+Current Time: 21363901us
+Iteration 5
+Part Worker ID: 9
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,0,2,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,0,2,2,1,)
+
+Current Time: 21365857us
+Iteration 5
+Part Worker ID: 4
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,0,1,1,2,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,0,1,1,2,)
+
+Current Time: 12651467us
+Iteration 4
+Product Worker ID: 6
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 887522us
+Buffer State: (0,0,3,0,0,5,3,5,3,4,)
+Pickup Order: (1,0,0,2,0,)
+Local State: (0,0,0,0,0,)
+Cart State: (2,0,0,0,0,)
+Updated Buffer State: (0,0,3,0,0,5,3,5,3,4,)
+Updated Pickup Order: (1,0,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,0,0,0,0,)
+Total Completed Products: 39
+
+Current Time: 21524945us
+Iteration 5
+Product Worker ID: 6
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Pickup Order: (1,0,0,2,0,)
+Local State: (2,0,0,0,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,6,5,3,4,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (2,0,0,0,0,)
+Updated Cart State: (1,0,0,2,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 40
+
+Current Time: 21674653us
+Iteration 5
+Part Worker ID: 4
+Status: Wakeup-Notified
+Accumulated Wait Time: 30706us
+Buffer State: (6,6,5,3,4,7,6,5,5,4,)
+Load Order: (2,0,1,1,2,)
+Updated Buffer State: (7,6,5,4,4,7,6,5,5,4,)
+Updated Load Order: (1,0,1,0,2,)
+
+Current Time: 21674653us
+Iteration 5
+Part Worker ID: 4
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 30706us
+Buffer State: (7,6,5,4,4,7,6,5,5,4,)
+Load Order: (1,0,1,0,2,)
+Updated Buffer State: (7,6,5,4,4,7,6,5,5,4,)
+Updated Load Order: (1,0,1,0,2,)
+
+Current Time: 18098963us
+Iteration 5
+Part Worker ID: 2
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 373052us
+Buffer State: (7,1,2,5,0,7,5,5,5,4,)
+Load Order: (0,0,0,2,0,)
+Updated Buffer State: (7,1,2,5,0,7,5,5,5,4,)
+Updated Load Order: (0,0,0,2,0,)
+
+Current Time: 20275624us
+Iteration 4
+Part Worker ID: 1
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 170794us
+Buffer State: (7,6,5,5,3,7,3,5,5,4,)
+Load Order: (0,1,2,0,0,)
+Updated Buffer State: (7,6,5,5,3,7,3,5,5,4,)
+Updated Load Order: (0,1,2,0,0,)
+
+Current Time: 22139739us
+Iteration 4
+Part Worker ID: 7
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,4,4,7,6,5,5,4,)
+Load Order: (1,3,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,3,0,0,1,)
+
+Current Time: 22142246us
+Iteration 5
+Part Worker ID: 8
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 171678us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,2,0,0,2,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,2,0,0,2,)
+
+Current Time: 22293798us
+Iteration 5
+Product Worker ID: 3
+Status: Wakeup-Notified
+Accumulated Wait Time: 202011us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Pickup Order: (0,0,0,0,1,)
+Local State: (0,2,0,1,0,)
+Cart State: (0,0,0,0,1,)
+Updated Buffer State: (7,6,5,5,3,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,2,0,1,0,)
+Updated Cart State: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 41
+
+Current Time: 20274400us
+Iteration 5
+Part Worker ID: 14
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 216934us
+Buffer State: (6,5,5,5,2,7,3,5,5,4,)
+Load Order: (0,0,3,0,0,)
+Updated Buffer State: (6,5,5,5,2,7,3,5,5,4,)
+Updated Load Order: (0,0,3,0,0,)
+
+Current Time: 22602653us
+Iteration 5
+Part Worker ID: 11
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,3,7,6,5,5,4,)
+Load Order: (1,1,0,2,2,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,1,0,2,1,)
+
+Current Time: 22606066us
+Iteration 5
+Part Worker ID: 16
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,1,2,3,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,2,3,)
+
+Current Time: 22608661us
+Iteration 5
+Part Worker ID: 5
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,1,2,1,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,1,2,1,0,)
+
+Current Time: 20735253us
+Iteration 5
+Part Worker ID: 6
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 187391us
+Buffer State: (7,6,5,5,4,7,4,5,5,4,)
+Load Order: (2,0,1,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,4,5,5,4,)
+Updated Load Order: (2,0,1,1,1,)
+
+Current Time: 20891950us
+Iteration 5
+Part Worker ID: 18
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 185659us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,0,0,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,0,0,2,1,)
+
+Current Time: 21053237us
+Iteration 5
+Part Worker ID: 13
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 184496us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (2,2,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (2,2,0,1,1,)
+
+Current Time: 21056230us
+Iteration 5
+Part Worker ID: 17
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 199172us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,1,2,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,1,2,1,1,)
+
+Current Time: 21059106us
+Iteration 5
+Part Worker ID: 10
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 214240us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,3,1,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,3,1,2,0,)
+
+Current Time: 15438449us
+Iteration 4
+Product Worker ID: 4
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 791683us
+Buffer State: (6,4,5,4,0,4,1,5,2,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (2,0,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (6,4,5,4,0,4,1,5,2,4,)
+Updated Pickup Order: (0,0,0,0,2,)
+Updated Local State: (2,0,0,1,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 41
+
+Current Time: 23361922us
+Iteration 5
+Product Worker ID: 4
+Status: New Pickup Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (2,0,0,1,0,)
+Cart State: (0,0,0,0,0,)
+Updated Buffer State: (7,6,5,5,2,7,6,5,5,4,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (2,0,0,1,0,)
+Updated Cart State: (0,0,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 42
+
+Current Time: 23512600us
+Iteration 5
+Part Worker ID: 15
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 324233us
+Buffer State: (7,6,5,5,4,7,6,5,5,2,)
+Load Order: (0,0,0,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,2,)
+Updated Load Order: (0,0,0,2,0,)
+
+Current Time: 23667605us
+Iteration 5
+Product Worker ID: 2
+Status: Wakeup-Notified
+Accumulated Wait Time: 339926us
+Buffer State: (7,6,5,5,4,7,6,5,5,2,)
+Pickup Order: (0,0,0,0,2,)
+Local State: (0,0,0,0,0,)
+Cart State: (2,1,0,0,0,)
+Updated Buffer State: (7,6,5,5,2,7,6,5,5,2,)
+Updated Pickup Order: (0,0,0,0,0,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (2,1,0,0,2,)
+Updated Local State: (0,0,0,0,0,)
+Updated Cart State: (0,0,0,0,0,)
+Total Completed Products: 43
+
+Current Time: 23819999us
+Iteration 5
+Part Worker ID: 1
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,2,7,6,5,5,2,)
+Load Order: (1,2,2,0,1,)
+Updated Buffer State: (7,6,5,5,3,7,6,5,5,2,)
+Updated Load Order: (1,2,2,0,0,)
+
+Current Time: 22139739us
+Iteration 4
+Part Worker ID: 7
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 168056us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,3,0,0,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,3,0,0,1,)
+
+Current Time: 22606066us
+Iteration 5
+Part Worker ID: 16
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 136543us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (0,0,1,2,3,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (0,0,1,2,3,)
+
+Current Time: 24131009us
+Iteration 5
+Part Worker ID: 5
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 152081us
+Buffer State: (7,6,5,5,3,7,6,5,5,2,)
+Load Order: (2,1,2,1,0,)
+Updated Buffer State: (7,6,5,5,3,7,6,5,5,2,)
+Updated Load Order: (2,1,2,1,0,)
+
+Current Time: 22602653us
+Iteration 5
+Part Worker ID: 11
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 167884us
+Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Load Order: (1,1,0,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,4,)
+Updated Load Order: (1,1,0,2,1,)
+
+Current Time: 24439155us
+Iteration 5
+Part Worker ID: 9
+Status: Wakeup-Notified
+Accumulated Wait Time: 307356us
+Buffer State: (7,6,5,5,3,7,6,5,5,2,)
+Load Order: (1,0,2,2,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,2,)
+Updated Load Order: (1,0,2,2,0,)
+
+Current Time: 24439155us
+Iteration 5
+Part Worker ID: 9
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 307357us
+Buffer State: (7,6,5,5,4,7,6,5,5,2,)
+Load Order: (1,0,2,2,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,2,)
+Updated Load Order: (1,0,2,2,0,)
+
+Current Time: 24591173us
+Iteration 5
+Part Worker ID: 7
+Status: New Load Order
+Accumulated Wait Time: 0us
+Buffer State: (7,6,5,5,4,7,6,5,5,2,)
+Load Order: (1,3,0,1,1,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,3,)
+Updated Load Order: (1,3,0,1,0,)
+
+Current Time: 23819999us
+Iteration 5
+Part Worker ID: 1
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 77277us
+Buffer State: (7,6,5,5,3,7,6,5,5,2,)
+Load Order: (1,2,2,0,0,)
+Updated Buffer State: (7,6,5,5,3,7,6,5,5,2,)
+Updated Load Order: (1,2,2,0,0,)
+
+Current Time: 24591173us
+Iteration 5
+Part Worker ID: 7
+Status:  Wakeup-Timeout
+Accumulated Wait Time: 30054us
+Buffer State: (7,6,5,5,4,7,6,5,5,3,)
+Load Order: (1,3,0,1,0,)
+Updated Buffer State: (7,6,5,5,4,7,6,5,5,3,)
+Updated Load Order: (1,3,0,1,0,)
+
+All work is Done!!!
